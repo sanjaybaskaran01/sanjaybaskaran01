@@ -2,9 +2,9 @@
 
 
 <p align="center" float="left">
-  <img src="https://c.tenor.com/VpZ2Nf5gdRYAAAAM/pc-banging.gi" height="220"/> 
-  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" height="220" width="300"/>
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="220"/>
+  <img src="https://c.tenor.com/VpZ2Nf5gdRYAAAAM/pc-banging.gi" height="170" width="250"/> 
+  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" height="170" width="250"/>
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="170" width="250"/>
 </p>
 <br>
 <h3>About me</h3>
