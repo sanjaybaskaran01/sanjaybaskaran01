@@ -2,17 +2,15 @@
 
 
 <p align="center" float="left">
-  <img src="https://c.tenor.com/VpZ2Nf5gdRYAAAAM/pc-banging.gi" height="170" width="250"/> 
-  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" height="170" width="250"/>
-  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="170" width="250"/>
+  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" height="260" width="420"/>
 </p>
 <br>
 <h3>About me</h3>
   <p> I am a 19 year old programmer, I am fascinated by the way computers work. Some of my hobbies include 
   <br>
-  <li>Video Games &nbsp;&nbsp; <a href="https://steamcommunity.com/id/Elite_Frosty/"><img src="https://c.tenor.com/lnHy5A_HnVMAAAAC/pc-master-race-gaming.gif" height="35px"> </a></li>
-  <li>Juggling&nbsp;&nbsp;<img src="https://c.tenor.com/-GTBu3LJF6wAAAAi/man-juggling-joypixels.gif" height="35px"></li>
-  <li>Coding&nbsp;&nbsp;<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" height="35px"></li>
+  <li>Video Games </li>
+  <li>Juggling</li>
+  <li>Coding</li>
 </p>
 
 <h3>GitHub Stats</h3>
