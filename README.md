@@ -1,18 +1,42 @@
-<h1 align="center"> <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" height="23px"> Sanjay Kumar Baskaran <img src="https://i.pinimg.com/originals/bd/d3/36/bdd3360a05b0c02cc9cc766a73bc75fc.gif" height="23px"></h1>
-
+<h1 align="center"> Sanjay Kumar Baskaran </h1>
+<p align="center" float="left">
+<img align="left" src="https://komarev.com/ghpvc/?username=sanjaybaskaran01&label=Profile%20views&color=blueviolet" alt="sanjaybaskaran01"/>
+<img align="right" src="https://img.shields.io/github/followers/sanjaybaskaran01?color=blueviolet&label=Followers" alt="sanjaybaskaran01" /> 
+</p>
 
 <p align="center" float="left">
-  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" height="260" width="420"/>
+  <img src="./assets/background.gif" height="260" width="420"/>
 </p>
 <br>
 <h3>About me</h3>
   <p> I am a 19 year old programmer, I am fascinated by the way computers work. Some of my hobbies include 
-  <br>
   <li>Video Games </li>
   <li>Juggling</li>
   <li>Coding</li>
 </p>
 
+<h3>Languages and Tools</h3>
+
+<p align="left">
+  <img src="./assets/html.svg" height="30"/>&nbsp;&nbsp;
+  <img src="./assets/css.svg" height="30"/>&nbsp;&nbsp;
+  <img src="./assets/javascript.svg" height="30"/>&nbsp;&nbsp;
+  <img src="./assets/c.svg" height="30"/>&nbsp;&nbsp;
+  <img src="./assets/cpp.svg" height="30"/>&nbsp;&nbsp;
+  <img src="./assets/python.svg" height="30"/>&nbsp;&nbsp;
+  <img src="./assets/reactjs.svg" height="30"/>&nbsp;&nbsp;
+  <img src="./assets/typescript.svg" height="30"/>&nbsp;&nbsp;
+  <img src="./assets/nodejs.svg" height="30"/>&nbsp;&nbsp;
+  <img src="./assets/mongodb.svg" height="30"/>&nbsp;&nbsp;
+  <img src="./assets/rust.svg" height="30"/>&nbsp;&nbsp;
+  <img src="./assets/git.svg" height="30"/>&nbsp;&nbsp;
+  <img src="./assets/docker.svg" height="30"/>&nbsp;&nbsp;
+  <img src="./assets/bash.svg" height="30"/>&nbsp;&nbsp;
+  <img src="./assets/console.png" height="30"/>&nbsp;&nbsp;
+  <img src="./assets/github.svg" height="30"/>&nbsp;&nbsp;
+  <img src="./assets/linux.png" height="30"/>&nbsp;&nbsp;
+
+</p>
 <h3>GitHub Stats</h3>
 
 <p align="center" float="left">
@@ -20,17 +44,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjaybaskaran01&show_icons=true&locale=en&layout=compact&theme=synthwave" height=150/>
 </p>
 
-<!--
-**sanjaybaskaran01/sanjaybaskaran01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Connect with me</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/sanjaybaskaran/"><img src="./assets/linkedin.svg" height="30"/></a>&nbsp;&nbsp;
+  <a href="mailto:sanjaybaskaran01@gmail.com"><img src="./assets/gmail.svg" height="30"/></a>&nbsp;&nbsp;
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
