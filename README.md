@@ -1,7 +1,7 @@
 <h1 align="center"> Sanjay Kumar Baskaran </h1>
 <p align="center" float="left">
-<img align="left" src="https://komarev.com/ghpvc/?username=sanjaybaskaran01&label=Profile%20views&color=blueviolet" alt="sanjaybaskaran01"/>
-<img align="right" src="https://img.shields.io/github/followers/sanjaybaskaran01?color=blueviolet&label=Followers" alt="sanjaybaskaran01" /> 
+<img align="left" src="https://komarev.com/ghpvc/?username=sanjaybaskaran01&label=Profile%20views&color=00FFA5" alt="sanjaybaskaran01"/>
+<img align="right" src="https://img.shields.io/github/followers/sanjaybaskaran01?color=00FFA5&label=Followers" alt="sanjaybaskaran01" /> 
 </p>
 
 <p align="center" float="left">
@@ -97,10 +97,10 @@
 
 <p align="center" float="left">
   <a href="https://github.com/sanjaybaskaran01?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjaybaskaran01&layout=compact&theme=jolly&show_icons=true" height=150/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjaybaskaran01&layout=compact&show_icons=true&title_color=00FFA5&bg_color=0D1117&icon_color=00FFA5&text_color=F8F7F9&hide_border=1" height=150/>
   </a>
   <a href="https://github.com/sanjaybaskaran01?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjaybaskaran01&show_icons=true&locale=en&layout=compact&theme=jolly" height=150/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjaybaskaran01&show_icons=true&locale=en&layout=compact&title_color=00FFA5&bg_color=0D1117&icon_color=00FFA5&text_color=F8F7F9&hide_border=1" height=150/>
   </a>
 </p>
 
