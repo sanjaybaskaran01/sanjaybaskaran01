@@ -1,7 +1,7 @@
 <h1 align="center"> Sanjay Kumar Baskaran </h1>
 <p align="center" float="left">
-<img align="left" src="https://komarev.com/ghpvc/?username=sanjaybaskaran01&label=Profile%20views&color=00FFA5" alt="sanjaybaskaran01"/>
-<img align="right" src="https://img.shields.io/github/followers/sanjaybaskaran01?color=00FFA5&label=Followers" alt="sanjaybaskaran01" /> 
+<img align="left" src="https://komarev.com/ghpvc/?username=sanjaybaskaran01&label=Profile%20views&color=009127" alt="sanjaybaskaran01"/>
+<img align="right" src="https://img.shields.io/github/followers/sanjaybaskaran01?color=009127&label=Followers" alt="sanjaybaskaran01" /> 
 </p>
 
 <p align="center" float="left">
@@ -18,7 +18,7 @@
 </p>
 
 <h3>Languages and Tools</h3>
-<p align="left">
+<p align="center">
   <a href="https://www.w3.org/html/" target="_blank">
   <img src="./assets/html.svg" height="30"/>
   </a>
