@@ -11,7 +11,7 @@
 </p>
 <br>
 <h3>About me</h3>
-  <p> I am a 19 year old programmer, I am fascinated by the way computers work. Some of my hobbies include 
+  <p> I am a 21 year old programmer, I am fascinated by the way computers work. Some of my hobbies include 
   <li>Video Games </li>
   <li>Juggling</li>
   <li>Coding</li>
