@@ -34,13 +34,6 @@ Outside of coding, you'll probably find me **gaming, juggling, playing the guita
 
 ---
 
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjaybaskaran01&show_icons=true&title_color=00FFA5&bg_color=0D1117&icon_color=00FFA5&text_color=F8F7F9&hide_border=1" height=150/>
-</p>
-
----
-
 ### 🤝 **Let's Connect**
 Looking to collaborate or just say hi? Feel free to reach out! 🚀  
 <p align="center">
